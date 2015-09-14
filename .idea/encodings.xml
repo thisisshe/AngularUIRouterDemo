@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/app.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/main/main.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/partials/Home.html" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/partials/NavPage.html" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/main.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/scripts/PayDataEntryApp.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/scripts/controllers/PayDataEntryGridCtrl.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/scripts/controllers/PayDataEntryPayGroupDetailsCtrl.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/scripts/services/PayDataEntryPayGroupDetailsService.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/tests/controllers/PayDataEntryGridCtrl.spec.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/tests/services/PayDataEntryGridService.spec.js" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/views/PayDataEntryGrid.html" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Vantage-Payday-Angular/client/app/payroll/payDataEntry/views/payDataEntryPayGroupDetails.html" charset="UTF-8" />
+  </component>
+</project>
